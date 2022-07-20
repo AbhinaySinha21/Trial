@@ -428,6 +428,7 @@ input{
     width:70%;
 }
 .chart,.link{
+    height: 65vh;
     text-align: justify;
 }
 

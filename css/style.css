@@ -191,10 +191,6 @@ option{
     /* font-family: 'Cinzel', serif; */
     font-size: small;
 }
-.fa-solid{
-    /* width: 10px; */
-
-}
 button:hover,.clicked-s{
     opacity: 0.4;
 }
@@ -401,7 +397,7 @@ input{
 
 .chart_link{
     margin-top: 100px;
-    height: 100vh;
+    height: 65vh;
     width: 100%;
     text-align: center;
 }
@@ -428,7 +424,6 @@ input{
     width:70%;
 }
 .chart,.link{
-    height: 65vh;
     text-align: justify;
 }
 
